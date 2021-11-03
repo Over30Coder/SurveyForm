@@ -1,0 +1,107 @@
+body {
+    background-color: darkslateblue;
+}
+
+
+main {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+
+form {
+    padding: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+label {
+    padding-bottom: 10px;
+    color: white;
+}
+
+#title {
+    text-align: center;
+    color: white;
+
+}
+
+#description {
+    text-align: center;
+    color: white
+    
+}
+
+#survey-form {
+    background-color: grey;
+
+}
+
+input[type=submit] {
+    padding:5px 15px; 
+    background:#ccc; 
+    border:0 none;
+    cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px; 
+    width: 100%;
+}
+
+input[type=text] {
+    margin-top: 10px;
+    width: 100%;
+    border-radius: 5px; 
+    border: 0.5em;
+    height: 20px;
+    justify-content: center;
+}
+
+input[type=email] {
+    margin-top: 10px;
+    width: 100%;
+    border-radius: 5px; 
+    border: 0.5em;
+    height: 20px;
+    justify-content: center;
+}
+
+input[type=number] {
+    margin-top: 10px;
+    width: 100%;
+    border-radius: 5px; 
+    border: 0.5em; 
+    height: 20px;
+    justify-content: center;
+}
+
+select {
+    margin-top: 10px;
+    width: 100%;
+    border-radius: 5px; 
+    border: 0.5em;
+    height: 20px;
+    justify-content: center;
+}
+
+textarea {
+    margin-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+input[type=radio] {
+    margin-top: 10px;
+    margin-right: 0;
+}
+
+input[type=checkbox] {
+    margin-top: 10px;
+    margin-right: auto;
+}
+
+input[type=submit] {
+    margin-top: 10px;
+    margin-right: auto;
+    font-size: 1.25em;
+    background-color: darkslateblue;
+    color: whitesmoke
+}
+
